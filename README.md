@@ -4,18 +4,8 @@
 - 🌱 Estudando Des. Mobile na linguagem Dart e Java
 - 📫 Contate-me no email: danielpires@eng.ci.ufpb.br
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=danpires97&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dracula)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=danpires97&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpires97&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpires97&layout=compact&hide=glsl,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -24,8 +14,6 @@
   <img align="center" alt="Daniel-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
 <div> 
